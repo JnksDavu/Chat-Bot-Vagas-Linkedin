@@ -9,17 +9,8 @@ Os dados dos candidatos são coletados automaticamente através do Phantombuster
 
 ## Estrutura do Projeto
 
-.
-├── app.py                        # Aplicação principal Streamlit
-├── run_phantom.py                # Script para buscar dados brutos do Phantombuster
-├── make_profiles_json.py         # Script para converter os dados em formato JSON processável
-├── dataset/
-│   ├── candidatos_linkedin_raw.json   # Saída bruta do Phantombuster
-│   ├── candidatos_linkedin.json       # Arquivo final de perfis processados
-│   └── phantom_log.txt                # Log de execução do Phantombuster
-├── .env                           # Configurações de API (não versionar)
-├── requirements.txt               # Dependências do projeto
-└── README.md
+<img width="680" height="698" alt="image" src="https://github.com/user-attachments/assets/542972bc-ef3a-41d4-88c5-4aeb3b4fb1f1" />
+
 
 ## Requisitos
 
@@ -61,3 +52,6 @@ Os dados dos candidatos são coletados automaticamente através do Phantombuster
  - A aplicação abrirá no navegador (por padrão em http://localhost:8501).
 
 ## Resultados:
+
+<img width="1503" height="909" alt="Captura de Tela 2025-10-31 às 13 57 26" src="https://github.com/user-attachments/assets/d402d852-eb97-4ed7-b855-176a1c17796b" />
+
