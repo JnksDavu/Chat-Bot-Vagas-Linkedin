@@ -1,0 +1,282 @@
+[11:30:55] 🔍 ID do Phantom: 5979542236997998
+[11:30:56] 📡 Status do POST /launch: 429
+[11:30:56] ❌ Erro retornado pela API:
+[11:30:56] {
+  "status": "error",
+  "error": "Agent maximum parallel executions limit of 1 (agent limit) reached",
+  "details": {
+    "detailedErrorSlug": "maxParallelismReached"
+  }
+}
+[11:31:34] 🔍 ID do Phantom: 5979542236997998
+[11:31:35] 📡 Status do POST /launch: 200
+[11:31:35] 🚀 Phantom iniciado com sucesso: exec_id=8933390649608917
+[11:31:35] ⏳ Aguardando a conclusão da execução do Phantom...
+[11:31:36] ⚠️ Estado inesperado: desconhecido
+[11:31:36] 🧾 Resposta completa:
+[11:31:36] {
+  "output": null
+}
+[11:31:47] ⚠️ Estado inesperado: desconhecido
+[11:31:47] 🧾 Resposta completa:
+[11:31:47] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:31:58] ⚠️ Estado inesperado: desconhecido
+[11:31:58] 🧾 Resposta completa:
+[11:31:58] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:32:09] ⚠️ Estado inesperado: desconhecido
+[11:32:09] 🧾 Resposta completa:
+[11:32:09] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:32:20] ⚠️ Estado inesperado: desconhecido
+[11:32:20] 🧾 Resposta completa:
+[11:32:20] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:32:31] ⚠️ Estado inesperado: desconhecido
+[11:32:31] 🧾 Resposta completa:
+[11:32:31] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:32:42] ⚠️ Estado inesperado: desconhecido
+[11:32:42] 🧾 Resposta completa:
+[11:32:42] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:32:53] ⚠️ Estado inesperado: desconhecido
+[11:32:53] 🧾 Resposta completa:
+[11:32:53] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:33:04] ⚠️ Estado inesperado: desconhecido
+[11:33:04] 🧾 Resposta completa:
+[11:33:04] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:33:15] ⚠️ Estado inesperado: desconhecido
+[11:33:15] 🧾 Resposta completa:
+[11:33:15] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:33:25] ⚠️ Estado inesperado: desconhecido
+[11:33:25] 🧾 Resposta completa:
+[11:33:25] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:33:36] ⚠️ Estado inesperado: desconhecido
+[11:33:36] 🧾 Resposta completa:
+[11:33:36] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 8933390649608917 started in br-scw-nl-nh-1-thenn (Fri Oct 31 2025 14:31:35 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[info_]ℹ️ Argument: {\r\n[info_]  spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0',\r\n[info_]  numberOfProfilesPerLaunch: 10,\r\n[info_]  columnName: 'Url',\r\n[info_]  saveProfileDetails: true\r\n[info_]}\r\n[error]❌ Error: the Phantom argument is invalid:\r\n[error]\t-  => must have required property 'sessionCookie'\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:31:36 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:34:10] 🔍 ID do Phantom: 5979542236997998
+[11:34:11] 📡 Status do POST /launch: 200
+[11:34:11] 🚀 Phantom iniciado com sucesso: exec_id=2584677256994635
+[11:34:11] ⏳ Aguardando a conclusão da execução do Phantom...
+[11:34:12] ⚠️ Estado inesperado: desconhecido
+[11:34:12] 🧾 Resposta completa:
+[11:34:12] {
+  "output": null
+}
+[11:34:23] ⚠️ Estado inesperado: desconhecido
+[11:34:23] 🧾 Resposta completa:
+[11:34:23] {
+  "output": null
+}
+[11:34:34] ⚠️ Estado inesperado: desconhecido
+[11:34:34] 🧾 Resposta completa:
+[11:34:34] {
+  "output": null
+}
+[11:34:45] ⚠️ Estado inesperado: desconhecido
+[11:34:45] 🧾 Resposta completa:
+[11:34:45] {
+  "output": null
+}
+[11:37:16] 🔍 ID do Phantom: 5979542236997998
+[11:37:17] 📡 Status do POST /launch: 429
+[11:37:17] ❌ Erro retornado pela API:
+[11:37:17] {
+  "status": "error",
+  "error": "Agent maximum parallel executions limit of 1 (agent limit) reached",
+  "details": {
+    "detailedErrorSlug": "maxParallelismReached"
+  }
+}
+[11:37:41] 🔍 ID do Phantom: 5979542236997998
+[11:37:42] 📡 Status do POST /launch: 200
+[11:37:42] 🚀 Phantom iniciado com sucesso: exec_id=1089850699739272
+[11:37:42] ⏳ Aguardando a conclusão da execução do Phantom...
+[11:37:43] ⚠️ Estado inesperado: desconhecido
+[11:37:43] 🧾 Resposta completa:
+[11:37:43] {
+  "output": null
+}
+[11:37:54] ⚠️ Estado inesperado: desconhecido
+[11:37:54] 🧾 Resposta completa:
+[11:37:54] {
+  "output": null
+}
+[11:38:06] ⚠️ Estado inesperado: desconhecido
+[11:38:06] 🧾 Resposta completa:
+[11:38:06] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 1089850699739272 started in br-scw-nl-nh-2-qhorin (Fri Oct 31 2025 14:37:43 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[load_]🔄 Getting data from https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0...\r\n[error]❌ https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/export?format=csv&gid=0 is not available, HTTP code: 502\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:37:55 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:38:17] ⚠️ Estado inesperado: desconhecido
+[11:38:17] 🧾 Resposta completa:
+[11:38:17] {
+  "output": "(node:1) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode\r\non September 8, 2024 and reach end-of-support on September 8, 2025.\r\n\r\nPlease migrate your code to use AWS SDK for JavaScript (v3).\r\nFor more information, check blog post at https://a.co/cUPnyil\r\n(Use `node --trace-warnings ...` to show where the warning was created)\r\n* Container 1089850699739272 started in br-scw-nl-nh-2-qhorin (Fri Oct 31 2025 14:37:43 GMT+0000 (Coordinated Universal Time))\r\n* Got dependency LinkedIn Profile Visitor.js\r\n* Spawning Node v16.20.2\r\n* using version 1.725.2\r\n[load_]🔄 Getting data from https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/edit?gid=0#gid=0...\r\n[error]❌ https://docs.google.com/spreadsheets/d/1Wnp3mO9iapIj3ja8zZ2einISmRa17eRqaKwsq4as5D8/export?format=csv&gid=0 is not available, HTTP code: 502\r\n* Process finished with an error (exit code: 1) (Fri Oct 31 2025 14:37:55 GMT+0000 (Coordinated Universal Time))\r\n"
+}
+[11:39:46] 🔍 ID do Phantom: 5979542236997998
+[11:39:48] 📡 Status do POST /launch: 200
+[11:39:48] 🚀 Phantom iniciado com sucesso: exec_id=5378959470352298
+[11:39:48] ⏳ Aguardando a conclusão da execução do Phantom...
+[11:39:48] ⚠️ Estado inesperado: desconhecido
+[11:39:48] 🧾 Resposta completa:
+[11:39:48] {
+  "output": null
+}
+[11:39:59] ⚠️ Estado inesperado: desconhecido
+[11:39:59] 🧾 Resposta completa:
+[11:39:59] {
+  "output": null
+}
+[11:40:10] ⚠️ Estado inesperado: desconhecido
+[11:40:10] 🧾 Resposta completa:
+[11:40:10] {
+  "output": null
+}
+[11:40:21] ⚠️ Estado inesperado: desconhecido
+[11:40:21] 🧾 Resposta completa:
+[11:40:21] {
+  "output": null
+}
+[11:40:32] ⚠️ Estado inesperado: desconhecido
+[11:40:32] 🧾 Resposta completa:
+[11:40:32] {
+  "output": null
+}
+[11:40:43] ⚠️ Estado inesperado: desconhecido
+[11:40:43] 🧾 Resposta completa:
+[11:40:43] {
+  "output": null
+}
+[11:40:54] ⚠️ Estado inesperado: desconhecido
+[11:40:54] 🧾 Resposta completa:
+[11:40:54] {
+  "output": null
+}
+[11:41:05] ⚠️ Estado inesperado: desconhecido
+[11:41:05] 🧾 Resposta completa:
+[11:41:05] {
+  "output": null
+}
+[11:41:16] ⚠️ Estado inesperado: desconhecido
+[11:41:16] 🧾 Resposta completa:
+[11:41:16] {
+  "output": null
+}
+[11:41:27] ⚠️ Estado inesperado: desconhecido
+[11:41:27] 🧾 Resposta completa:
+[11:41:27] {
+  "output": null
+}
+[11:41:38] ⚠️ Estado inesperado: desconhecido
+[11:41:38] 🧾 Resposta completa:
+[11:41:38] {
+  "output": null
+}
+[11:41:49] ⚠️ Estado inesperado: desconhecido
+[11:41:49] 🧾 Resposta completa:
+[11:41:49] {
+  "output": null
+}
+[11:42:00] ⚠️ Estado inesperado: desconhecido
+[11:42:00] 🧾 Resposta completa:
+[11:42:00] {
+  "output": null
+}
+[11:42:11] ⚠️ Estado inesperado: desconhecido
+[11:42:11] 🧾 Resposta completa:
+[11:42:11] {
+  "output": null
+}
+[11:42:22] ⚠️ Estado inesperado: desconhecido
+[11:42:22] 🧾 Resposta completa:
+[11:42:22] {
+  "output": null
+}
+[11:42:33] ⚠️ Estado inesperado: desconhecido
+[11:42:33] 🧾 Resposta completa:
+[11:42:33] {
+  "output": null
+}
+[11:42:44] ⚠️ Estado inesperado: desconhecido
+[11:42:44] 🧾 Resposta completa:
+[11:42:44] {
+  "output": null
+}
+[11:42:55] ⚠️ Estado inesperado: desconhecido
+[11:42:55] 🧾 Resposta completa:
+[11:42:55] {
+  "output": null
+}
+[11:43:06] ⚠️ Estado inesperado: desconhecido
+[11:43:06] 🧾 Resposta completa:
+[11:43:06] {
+  "output": null
+}
+[11:43:17] ⚠️ Estado inesperado: desconhecido
+[11:43:17] 🧾 Resposta completa:
+[11:43:17] {
+  "output": null
+}
+[11:43:28] ⚠️ Estado inesperado: desconhecido
+[11:43:28] 🧾 Resposta completa:
+[11:43:28] {
+  "output": null
+}
+[11:43:39] ⚠️ Estado inesperado: desconhecido
+[11:43:39] 🧾 Resposta completa:
+[11:43:39] {
+  "output": null
+}
+[11:43:50] ⚠️ Estado inesperado: desconhecido
+[11:43:50] 🧾 Resposta completa:
+[11:43:50] {
+  "output": null
+}
+[11:44:01] ⚠️ Estado inesperado: desconhecido
+[11:44:01] 🧾 Resposta completa:
+[11:44:01] {
+  "output": null
+}
+[11:44:12] ⚠️ Estado inesperado: desconhecido
+[11:44:12] 🧾 Resposta completa:
+[11:44:12] {
+  "output": null
+}
+[11:44:23] ⚠️ Estado inesperado: desconhecido
+[11:44:23] 🧾 Resposta completa:
+[11:44:23] {
+  "output": null
+}
+[11:44:34] ⚠️ Estado inesperado: desconhecido
+[11:44:34] 🧾 Resposta completa:
+[11:44:34] {
+  "output": null
+}
+[12:24:16] 🔍 Buscando ID do Phantom 'Extract-Perfil-Linkedin'...
+[12:24:17] ✅ Encontrado Phantom ID: 5979542236997998
+[12:24:17] 📥 Obtendo último resultado salvo do Phantom...
+[12:24:18] ⚠️ Erro ao buscar último output: {"status":"error","error":"Endpoint not found"}
+[12:24:18] ❌ Erro: 404 Client Error: Not Found for url: https://api.phantombuster.com/api/v2/agents/output?agentId=5979542236997998
+[12:25:08] 🔍 Buscando ID do Phantom 'Extract-Perfil-Linkedin'...
+[12:25:09] ✅ Encontrado Phantom ID: 5979542236997998
+[12:25:09] 📥 Obtendo último resultado salvo do Phantom...
+[12:25:10] ✅ Output mais recente recuperado (3518 bytes).
+[12:25:10] 💾 Dados salvos em: dataset/candidatos_linkedin.json
+[12:25:10] ✅ Processo finalizado com sucesso.
