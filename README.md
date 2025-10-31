@@ -47,6 +47,10 @@ Os dados dos candidatos são coletados automaticamente através do Phantombuster
  - Execute o script que baixa e converte o JSON final: python make_profiles_json.py
  - Isso criará dataset/candidatos_linkedin.json, usado pela aplicação principal.
 
+3. Interface do phantomBuster:
+    <img width="3000" height="1792" alt="image" src="https://github.com/user-attachments/assets/a83c4ce7-2177-42b1-97dd-f799a7962b6e" />
+
+
 ## Execução da Aplicação
  - streamlit run app.py
  - A aplicação abrirá no navegador (por padrão em http://localhost:8501).
